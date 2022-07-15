@@ -1,0 +1,50 @@
+{
+    "proc_dir": "D:\\GitHub\\EXIFextract\\test-images\\other",
+    "exif": true,
+    "gps": true,
+    "md": true,
+    "json": true,
+    "files": [
+        "jpeg.md"
+    ],
+    "files_processed": [
+        "jpeg.md"
+    ],
+    "files_not_processed": [],
+    "files_error": [],
+    "files_with_exif": [],
+    "files_with_gps": [],
+    "timer_summary": {
+        "time_start": "2022-07-12 03:35:58",
+        "time_stop": "2022-07-12 03:35:58",
+        "time_elapsed": "0:00:00"
+    },
+    "files_summary": {
+        "files_found": 1,
+        "files_processed": 1,
+        "files_not_processed": 0,
+        "files_error": 0,
+        "files_with_exif": 0,
+        "files_with_gps": 0
+    },
+    "gps_summary": [],
+    "files_results": [
+        {
+            "file": "jpeg.md",
+            "format": "JPEG",
+            "mb": 1.4553642272949219,
+            "px": 16806336,
+            "get_exif": true,
+            "has_exif": false,
+            "exif_data": {},
+            "get_gps": true,
+            "has_gps": false,
+            "gps_data": {
+                "gmaps_url": null,
+                "gmaps_address": null
+            },
+            "proc_result": "Processed",
+            "proc_msg": []
+        }
+    ]
+}
